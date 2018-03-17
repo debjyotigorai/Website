@@ -18,11 +18,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>C++ | My Projects | DG DEV</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_dg-dev.css?crc=166696051"/>
-  <link rel="stylesheet" type="text/css" href="css/c----my-projects--dg-dev.css?crc=3969916695" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_dg-dev.css?crc=3765115100"/>
+  <link rel="stylesheet" type="text/css" href="css/c----my-projects--dg-dev.css?crc=4003018844" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_dg-dev.css?crc=56270552"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_dg-dev.css?crc=410030797"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_c----my-projects--dg-dev.css?crc=517076403" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
@@ -820,23 +820,23 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1260', '#bp_1047', '#bp_899', '#bp_779', '#bp_644', '#bp_504', '#bp_400', '#bp_375'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#bp_1260').one('muse_this_bp_activate', function(){
-$('#menuu21635').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,142.47]},{"speed":[0,0],"in":[142.47,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1047').one('muse_this_bp_activate', function(){
-$('#menuu23288').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,149.95]},{"speed":[0,0],"in":[149.95,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_779').one('muse_this_bp_activate', function(){
-$('#menuu26594').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,149.48]},{"speed":[0,0],"in":[149.48,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_899').one('muse_this_bp_activate', function(){
 $('#menuu24941').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,145.53]},{"speed":[0,0],"in":[145.53,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1400').one('muse_this_bp_activate', function(){
+$('#menuu19982').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,145.75]},{"speed":[0,0],"in":[145.75,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#menuu295').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,144.57]},{"speed":[0,0],"in":[144.57,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_1400').one('muse_this_bp_activate', function(){
-$('#menuu19982').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,145.75]},{"speed":[0,0],"in":[145.75,Infinity]}], $(this)); /* scroll effect */
+$('#bp_1260').one('muse_this_bp_activate', function(){
+$('#menuu21635').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,142.47]},{"speed":[0,0],"in":[142.47,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_779').one('muse_this_bp_activate', function(){
+$('#menuu26594').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,149.48]},{"speed":[0,0],"in":[149.48,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1047').one('muse_this_bp_activate', function(){
+$('#menuu23288').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,149.95]},{"speed":[0,0],"in":[149.95,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
