@@ -98,10 +98,10 @@ $form = array(
 		'custom_U83323' => array(
 			'order' => 7,
 			'type' => 'string',
-			'label' => 'ZIP?PIN CODE',
+			'label' => 'ZIP/PIN CODE',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'ZIP?PIN CODE\' is required.'
+				'required' => 'Field \'ZIP/PIN CODE\' is required.'
 			)
 		),
 		'custom_U83305' => array(
