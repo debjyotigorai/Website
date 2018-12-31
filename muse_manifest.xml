@@ -1,132 +1,57 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.debjyotigorai.tk" resolutions="1x,2x" timestamp="1544862986717">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.debjyotigorai.tk" resolutions="1x,2x" timestamp="1546274381091">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_dg-dev.css" crc="400157911" ref="python--my-projects--dg-dev:c--my-projects--dg-dev:license---terms--dg-dev:contact--dg-dev:about--dg-dev:blog--dg-dev:extras--dg-dev:index:my-projects--dg-dev:c----my-projects--dg-dev"/>
-    <file name="nomq_preview_master_dg-dev.css" crc="206496657" ref="python--my-projects--dg-dev:c--my-projects--dg-dev:license---terms--dg-dev:contact--dg-dev:about--dg-dev:blog--dg-dev:extras--dg-dev:index:my-projects--dg-dev:c----my-projects--dg-dev"/>
-    <file name="python--my-projects--dg-dev.css" crc="229247960" ref="python--my-projects--dg-dev"/>
-    <file name="nomq_python--my-projects--dg-dev.css" crc="4281359025" ref="python--my-projects--dg-dev"/>
-    <file name="c--my-projects--dg-dev.css" crc="4258538443" ref="c--my-projects--dg-dev"/>
-    <file name="nomq_c--my-projects--dg-dev.css" crc="40379995" ref="c--my-projects--dg-dev"/>
-    <file name="license---terms--dg-dev.css" crc="328486408" ref="license---terms--dg-dev"/>
-    <file name="nomq_license---terms--dg-dev.css" crc="188591452" ref="license---terms--dg-dev"/>
-    <file name="contact--dg-dev.css" crc="244396476" ref="contact--dg-dev"/>
-    <file name="nomq_contact--dg-dev.css" crc="4156730841" ref="contact--dg-dev"/>
-    <file name="about--dg-dev.css" crc="4228094742" ref="about--dg-dev"/>
-    <file name="nomq_about--dg-dev.css" crc="3932078158" ref="about--dg-dev"/>
-    <file name="blog--dg-dev.css" crc="3850865231" ref="blog--dg-dev"/>
-    <file name="nomq_blog--dg-dev.css" crc="4082606078" ref="blog--dg-dev"/>
-    <file name="extras--dg-dev.css" crc="3961919370" ref="extras--dg-dev"/>
-    <file name="nomq_extras--dg-dev.css" crc="4192958200" ref="extras--dg-dev"/>
-    <file name="index.css" crc="3794940368" ref="index"/>
-    <file name="nomq_index.css" crc="3824417718" ref="index"/>
-    <file name="my-projects--dg-dev.css" crc="3852178288" ref="my-projects--dg-dev"/>
-    <file name="nomq_my-projects--dg-dev.css" crc="127717941" ref="my-projects--dg-dev"/>
-    <file name="c----my-projects--dg-dev.css" crc="3936512645" ref="c----my-projects--dg-dev"/>
-    <file name="nomq_c----my-projects--dg-dev.css" crc="28797746" ref="c----my-projects--dg-dev"/>
+    <file name="site_global.css" crc="4085801442"/>
+    <file name="master_dg-dev-blue.css" crc="387375150" ref="privacy-policy--dg-dev"/>
+    <file name="nomq_preview_master_dg-dev-blue.css" crc="4074940624" ref="privacy-policy--dg-dev"/>
+    <file name="master_dg-dev-pink.css" crc="363676806" ref="terms---conditions--dg-dev"/>
+    <file name="nomq_preview_master_dg-dev-pink.css" crc="280584433" ref="terms---conditions--dg-dev"/>
+    <file name="master_dg-dev-brown.css" crc="4023565071" ref="extras--dg-dev"/>
+    <file name="nomq_preview_master_dg-dev-brown.css" crc="3876315316" ref="extras--dg-dev"/>
+    <file name="master_dg-dev-violet.css" crc="4263232154" ref="my-projects--dg-dev:contact--dg-dev:index"/>
+    <file name="nomq_preview_master_dg-dev-violet.css" crc="286140383" ref="my-projects--dg-dev:contact--dg-dev:index"/>
+    <file name="master_dg-dev-grey.css" crc="493180214" ref="blog--dg-dev"/>
+    <file name="nomq_preview_master_dg-dev-grey.css" crc="4159152863" ref="blog--dg-dev"/>
+    <file name="master_dg-dev-green.css" crc="4270686562" ref="about--dg-dev"/>
+    <file name="nomq_preview_master_dg-dev-green.css" crc="385777166" ref="about--dg-dev"/>
+    <file name="blog--dg-dev.css" crc="4237464054" ref="blog--dg-dev"/>
+    <file name="nomq_blog--dg-dev.css" crc="257089893" ref="blog--dg-dev"/>
+    <file name="my-projects--dg-dev.css" crc="4008638323" ref="my-projects--dg-dev"/>
+    <file name="nomq_my-projects--dg-dev.css" crc="3835519598" ref="my-projects--dg-dev"/>
+    <file name="contact--dg-dev.css" crc="4261087222" ref="contact--dg-dev"/>
+    <file name="nomq_contact--dg-dev.css" crc="3948148038" ref="contact--dg-dev"/>
+    <file name="extras--dg-dev.css" crc="531852695" ref="extras--dg-dev"/>
+    <file name="nomq_extras--dg-dev.css" crc="473063959" ref="extras--dg-dev"/>
+    <file name="about--dg-dev.css" crc="322681066" ref="about--dg-dev"/>
+    <file name="nomq_about--dg-dev.css" crc="43337768" ref="about--dg-dev"/>
+    <file name="terms---conditions--dg-dev.css" crc="400445810" ref="terms---conditions--dg-dev"/>
+    <file name="nomq_terms---conditions--dg-dev.css" crc="448353732" ref="terms---conditions--dg-dev"/>
+    <file name="index.css" crc="4167720094" ref="index"/>
+    <file name="nomq_index.css" crc="3950447081" ref="index"/>
+    <file name="privacy-policy--dg-dev.css" crc="248416740" ref="privacy-policy--dg-dev"/>
+    <file name="nomq_privacy-policy--dg-dev.css" crc="4096427004" ref="privacy-policy--dg-dev"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="museutils.js" crc="3803043152" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="whatinput.js" crc="86476730" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="museconfig.js" crc="380897831" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="require.js" crc="4157109226" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="webpro.js" crc="242022427" ref="my-projects--dg-dev:blog--dg-dev:contact--dg-dev"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="my-projects--dg-dev:blog--dg-dev"/>
-    <file name="form_check.php" crc="147359589" ref="contact--dg-dev"/>
-    <file name="form_throttle.php" crc="93986428" ref="contact--dg-dev"/>
-    <file name="form_process.php" crc="3851993751" ref="contact--dg-dev"/>
-    <file name="form-u83286.php" crc="3767706582" ref="contact--dg-dev"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="museutils.js" crc="340535759" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="whatinput.js" crc="86476730" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="webpro.js" crc="4059564322" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="require.js" crc="7928878" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="contact--dg-dev"/>
+    <file name="form_check.php" crc="4020933626" ref="contact--dg-dev"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact--dg-dev"/>
+    <file name="form_process.php" crc="37464564" ref="contact--dg-dev"/>
+    <file name="form-u255236.php" crc="3994923969" ref="contact--dg-dev"/>
   </folder>
   <folder name="images">
-    <file name="home--dg-dev-favicon.ico" crc="4285455947" ref="index"/>
-    <file name="1661915_1396633547267208_103648285_n.jpg" crc="228245684" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
+    <file name="favicon.ico" crc="4285455947" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev"/>
+    <file name="1661915_1396633547267208_103648285_n.jpg" crc="228245684" seo="true" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev">
       <caption webpage="contact--dg-dev" alt=""/>
       <caption webpage="contact--dg-dev" alt=""/>
       <caption webpage="contact--dg-dev" alt=""/>
@@ -137,574 +62,93 @@
       <caption webpage="contact--dg-dev" alt=""/>
       <caption webpage="contact--dg-dev" alt=""/>
       <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
     </file>
-    <file name="fb.jpg" crc="3990731747" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
+    <file name="flogo-hexrbg-wht-5835x35.png" crc="3880999043" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="fb_2x.jpg" crc="361763072" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="twit.jpg" crc="3873740644" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="twit_2x.jpg" crc="384587831" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="g-.jpg" crc="38344677" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="g-_2x.jpg" crc="96959547" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="git.jpg" crc="3890356214" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="git_2x.jpg" crc="3939899595" seo="true" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="festive-background-08-stars-snowflakes.jpg" crc="3869691687" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="festive-background-08-stars-snowflakes_2x.jpg" crc="4023929162" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev">
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="c----my-projects--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="extras--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="python--my-projects--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="about--dg-dev" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="my-projects--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="blog--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="license---terms--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="contact--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-      <caption webpage="c--my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="fb40x40.jpg" crc="4279776791" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb40x40_2x.jpg" crc="4049418605" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twit38x38.jpg" crc="4186418924" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -712,89 +156,251 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twit38x38_2x.jpg" crc="384587831" seo="true" ref="index">
+    <file name="twitter_logo_whiteonimage.png" crc="224171634" seo="true" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+    </file>
+    <file name="twitter_logo_whiteonimage_2x.png" crc="4291881595" seo="true" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+    </file>
+    <file name="github-mark-light-64px.png" crc="151229715" seo="true" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+    </file>
+    <file name="github-mark-light-64px35x35.png" crc="4001898475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flogo-hexrbg-wht-58.png" crc="3880999043" seo="true" ref="index:my-projects--dg-dev:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:contact--dg-dev:about--dg-dev:privacy-policy--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="blog--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="extras--dg-dev" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="terms---conditions--dg-dev" alt=""/>
+      <caption webpage="about--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="privacy-policy--dg-dev" alt=""/>
+    </file>
+    <file name="twitter_logo_whiteonimage35x36.png" crc="4150866163" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="g-38x38.jpg" crc="200257573" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="g-38x38_2x.jpg" crc="3918561032" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="twitter_logo_whiteonimage35x36_2x.png" crc="401438447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="git39x39.jpg" crc="108192222" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="git39x39_2x.jpg" crc="382571849" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb38x38.jpg" crc="339024503" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="github-mark-light-64px34x35.png" crc="303724691" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fb38x38_2x.jpg" crc="78259568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="sharp_menu_white_48dp.png" crc="4136141305" ref="index:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:about--dg-dev:privacy-policy--dg-dev">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="git38x38.jpg" crc="4058867053" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="sharp_menu_white_48dp_2x.png" crc="3819658039" ref="index:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:about--dg-dev:privacy-policy--dg-dev">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="git38x38_2x.jpg" crc="506609478" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="sharp_close_white_48dp.png" crc="224516915" ref="index:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:about--dg-dev:privacy-policy--dg-dev">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hamburger_menu.jpg" crc="375807750" ref="index">
+    <file name="sharp_close_white_48dp_2x.png" crc="509817546" ref="index:extras--dg-dev:terms---conditions--dg-dev:blog--dg-dev:about--dg-dev:privacy-policy--dg-dev">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hamburger_menu_2x.jpg" crc="3995209849" ref="index">
+    <file name="github-mark-light-64px34x34.png" crc="303724691" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hamburger_menu2.jpg" crc="4197247728" ref="index">
+    <file name="flogo-hexrbg-wht-5832x32.png" crc="3880999043" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hamburger_menu3.jpg" crc="272077272" ref="index">
+    <file name="twitter_logo_whiteonimage32x33.png" crc="4099367543" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hamburger_menu_2x2.jpg" crc="4197247728" ref="index">
+    <file name="twitter_logo_whiteonimage32x33_2x.png" crc="144006801" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:my-projects--dg-dev:c--my-projects--dg-dev:c----my-projects--dg-dev:python--my-projects--dg-dev:about--dg-dev:license---terms--dg-dev:blog--dg-dev:contact--dg-dev:extras--dg-dev"/>
-    <file name="favicon.ico" crc="4285455947" ref="my-projects--dg-dev"/>
-    <file name="images.jpg" crc="4011380240" seo="true" ref="my-projects--dg-dev">
+    <file name="github-mark-light-64px32x32.png" crc="4016274867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="python-seeklogocom.svg" crc="369319046" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="untitled.jpg" crc="242824181" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
@@ -802,72 +408,163 @@
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
     </file>
-    <file name="pythonlogo.jpg" crc="132985685" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="pythonlogo147x147.jpg" crc="83650410" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="pythonlogo145x145.jpg" crc="4142144269" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="pythonlogo144x144.jpg" crc="3786775420" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="pythonlogo141x141.jpg" crc="112031617" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="images134x134.jpg" crc="34168108" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="pythonlogo129x130.jpg" crc="276725793" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
-    </file>
-    <file name="images2.jpg" crc="486072554" seo="true" ref="my-projects--dg-dev">
+    <file name="python-seeklogocom_poster_.png" crc="3767421477" ref="my-projects--dg-dev"/>
+    <file name="c--119x134.png" crc="475947358" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
     </file>
-    <file name="images_2x.jpg" crc="3777507124" seo="true" ref="my-projects--dg-dev">
+    <file name="c--119x134_2x.png" crc="264313647" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
     </file>
-    <file name="untitled2.jpg" crc="3960847309" seo="true" ref="my-projects--dg-dev">
+    <file name="c-programming-language-seeklogocom.svg" crc="4282163363" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
     </file>
-    <file name="untitled_2x.jpg" crc="3963964390" seo="true" ref="my-projects--dg-dev">
+    <file name="c-programming-language-seeklogocom_poster_.png" crc="3774613730" ref="my-projects--dg-dev"/>
+    <file name="c--.png" crc="4095648484" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--182x205.png" crc="4229635933" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--176x198.png" crc="521217455" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--172x194.png" crc="4041967856" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--124x140.png" crc="250282575" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--124x140_2x.png" crc="264313647" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--148x167.png" crc="484692210" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--148x167_2x.png" crc="264313647" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--81x92.png" crc="4181378939" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--81x92_2x.png" crc="180439688" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--136x153.png" crc="4017359345" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--136x153_2x.png" crc="264313647" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--81x91.png" crc="3972955311" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
     </file>
-    <file name="pythonlogo66x66.jpg" crc="33372080" seo="true" ref="my-projects--dg-dev">
-      <caption webpage="my-projects--dg-dev" alt=""/>
+    <file name="c--81x91_2x.png" crc="3780667928" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
     </file>
-    <file name="pythonlogo66x66_2x.jpg" crc="263218079" seo="true" ref="my-projects--dg-dev">
+    <file name="c--58x66.png" crc="3946501843" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
       <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--58x66_2x.png" crc="345299033" seo="true" ref="my-projects--dg-dev">
       <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--71x80.png" crc="4131114597" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--71x80_2x.png" crc="4014717533" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--66x75.png" crc="4258589482" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--66x75_2x.png" crc="199090376" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--50x57.png" crc="4211163466" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="c--50x57_2x.png" crc="454154813" seo="true" ref="my-projects--dg-dev">
+      <caption webpage="my-projects--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxunchecked_2x.jpg" crc="4041065271" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover_2x.jpg" crc="421393327" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown_2x.jpg" crc="119826174" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxchecked_2x.jpg" crc="8340162" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover_2x.jpg" crc="461578639" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown_2x.jpg" crc="3782867047" ref="contact--dg-dev">
+      <caption webpage="contact--dg-dev" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4166084313" seo="true" mt="1523809154947" redirect="true"/>
-  <file name="my-projects--dg-dev.html" crc="3936444340" seo="true" mt="1523809154947" redirect="true"/>
-  <file name="c--my-projects--dg-dev.html" crc="497577788" seo="true" mt="1523809154947" redirect="true"/>
-  <file name="c----my-projects--dg-dev.html" crc="33779295" seo="true" mt="1544861412172" redirect="true"/>
-  <file name="python--my-projects--dg-dev.html" crc="4083976773" seo="true" mt="1523809154947" redirect="true"/>
-  <file name="about--dg-dev.html" crc="3947637879" seo="true" mt="1523809154947" redirect="true"/>
-  <file name="license---terms--dg-dev.html" crc="4156640608" seo="true" mt="1523809154947" redirect="true"/>
-  <file name="blog--dg-dev.html" crc="4264535323" seo="true" mt="1544862820702" redirect="true"/>
-  <file name="contact--dg-dev.html" crc="84119959" seo="true" mt="1523809154963" redirect="true"/>
-  <file name="extras--dg-dev.html" crc="3883739889" seo="true" mt="1523809212670" redirect="true"/>
+  <file name="index.html" crc="3790699941" seo="true" mt="1546173955683" redirect="true"/>
+  <file name="my-projects--dg-dev.html" crc="65298838" seo="true" mt="1546267609044" redirect="true"/>
+  <file name="extras--dg-dev.html" crc="3909047073" seo="true" mt="1546270039654" redirect="true"/>
+  <file name="terms---conditions--dg-dev.html" crc="2530592" seo="true" mt="1546273480535" redirect="true"/>
+  <file name="blog--dg-dev.html" crc="218259200" seo="true" mt="1546273273223" redirect="true"/>
+  <file name="contact--dg-dev.html" crc="72224321" seo="true" mt="1546269048222" redirect="true"/>
+  <file name="about--dg-dev.html" crc="535400091" seo="true" mt="1546267628864" redirect="true"/>
+  <file name="privacy-policy--dg-dev.html" crc="455564338" seo="true" mt="1546273537282" redirect="true"/>
 </manifest>
